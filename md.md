@@ -11,8 +11,6 @@
 
 | 图标 | 名称 | 原始 | 镜像 |
 |:---:|:---:|:---:|:---:|
-| ✈️ | TG代理 | [进入](https://Jsnzkpg.github.io/TelegramProxy) | - |
-| 🔖 | 书签收藏 | [进入](https://Jsnzkpg.github.io) | - |
 | 🚀 | 共享火箭 | [进入](https://stymei.github.io) | - |
 | 🐈‍⬛ | Github加速 | [进入](https://pyapk.github.io) | - |
 | 🔄 | 订阅转换 | [进入](https://stymei.cc.cd) | - |
