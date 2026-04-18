@@ -11,7 +11,6 @@
 
 | 图标 | 名称 | 原始 | 镜像 |
 |:---:|:---:|:---:|:---:|
-| 🚀 | 共享火箭 | [进入](https://stymei.github.io) | - |
 | 🐈‍⬛ | Github加速 | [进入](https://pyapk.github.io) | - |
 | 🔄 | 订阅转换 | [进入](https://stymei.cc.cd) | - |
 | 🔗 | 直链托管 | [进入](https://Jsnzkpg.github.io/Jsnzkpg) | - |
