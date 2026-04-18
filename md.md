@@ -11,11 +11,6 @@
 
 | 图标 | 名称 | 原始 | 镜像 |
 |:---:|:---:|:---:|:---:|
-
-
-
-
-
 | ✈️ | TG代理 | [进入](https://Jsnzkpg.github.io/TelegramProxy) | - |
 | 🔖 | 书签收藏 | [进入](https://Jsnzkpg.github.io) | - |
 | 🚀 | 共享火箭 | [进入](https://stymei.github.io) | - |
@@ -36,9 +31,6 @@
 
 ---
 
-## ⭐ Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=zf2629/ZFAPP&type=Date&legend=top-left)](https://www.star-history.com/#zf2629/ZFAPP&type=date&legend=top-left)
 
 ---
 
